@@ -1,0 +1,29 @@
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\appsettings.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.staticwebassets.runtime.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.exe
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.deps.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.runtimeconfig.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\LH Pets.pdb
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\scopedcss\bundle\LH Pets.styles.css
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.csproj.CopyComplete
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\refint\LH Pets.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.pdb
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\LH Pets.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\obj\Debug\net6.0\ref\LH Pets.dll

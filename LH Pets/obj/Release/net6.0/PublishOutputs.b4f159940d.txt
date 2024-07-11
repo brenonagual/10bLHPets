@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\LH Pets.exe
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\appsettings.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\LH Pets.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\LH Pets.deps.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\LH Pets.runtimeconfig.json
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\LH Pets.pdb
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\felip\OneDrive\Desktop\backend 10b - SP3 - Atividade 2\LH Pets\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
